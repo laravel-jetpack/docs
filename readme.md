@@ -1,7 +1,7 @@
 # Laravel Documentation
 
-You can find the online version of the Laravel documentation at [https://laravel.com/docs](https://laravel.com/docs)
+Jetpack is a suite of libraries to help developers follow best practices, reduce boilerplate code, and write code that works consistently across Laravel versions and devices so that developers can focus on the code they care about.
 
-## Contribution Guidelines
+## Jetpack Libraries
 
-If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for Laravel 8 would be submitted to the `8.x` branch. Documentation intended for the next release of Laravel should be submitted to the `master` branch.
+Popular and often-used libraries are listed first [Explore all libraries](/libraries)
