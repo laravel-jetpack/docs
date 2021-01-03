@@ -6,8 +6,8 @@ Jetpack is a suite of libraries to help developers follow best practices, reduce
 
 Popular and often-used libraries are listed first [Explore all libraries](/libraries)
 
-- [Numbers](/numbers) The *Number* component is used for displaying tabular data. Features include sorting, searching, pagination, content-editing, and row selection.
-- [Chart](/chart) Simple yet flexible JavaScript charting for designers & developers.
+- [Numbers](/numbers) The *Numbers* component is used for displaying tabular data. Features include sorting, searching, pagination, content-editing, and row selection.
+- [Chart](/chart) Simple yet flexible charting for designers & developers.
 - [Calendar](/calendar) The *Calendar* component is used to display information in a daily, weekly, monthly, or category view.
-- [User](/user) The *User Management* component is used to display information in a daily, weekly, monthly, or category view.
-- [Guard](/guard) Gain peace of mind by securing all your applications.
+- [User Management](/users) A *Users Management* package that includes all necessary things for a user management dashboard and associated pages for managing Laravel built-in user scaffolding.
+- [Security](/security) Gain peace of mind by securing all your applications.
